@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Danna Ayala  
 
 🎓 Estudiante de **Ingeniería en Computación** en ESPOL  
-💻 Interés por la **programación, análisis de datos y el desarrollo de software**  
+💻 Interés por la **Programación, Análisis de datos y el desarrollo de software**  
 
 ---
 
