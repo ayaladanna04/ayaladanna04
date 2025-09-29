@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Danna Ayala  
 
-<!--
-**ayaladanna04/ayaladanna04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería en Computación** en ESPOL  
+💻 Interés por la **programación, análisis de datos y el desarrollo de software**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Herramientas  
+
+- **Lenguajes de Programación:**  
+  - Java ☕  
+  - Python 🐍  
+  - SQL 🗄️  
+
+
+---
+
+## 📚 Proyectos Académicos Destacados  
+
+- 📖 **Gestor de Contactos en Java** – listas doblemente enlazadas circulares con persistencia en archivos `.dat`.  
+- 📊 **Análisis de datos estadísticos** con Python.  
+
+---
+
+## 🌐 Encuéntrame en  
+
+- [GitHub](#)  
+- ✉️ Contacto:danaayal@espol.edu.ec
+
